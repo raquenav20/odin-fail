@@ -1,2 +1,2 @@
-# odin-repository
+# odin-recipes
 Odin projects
